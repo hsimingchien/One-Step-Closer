@@ -4,3 +4,6 @@
 [submodule "Shell"]
 	path = Shell
 	url = https://github.com/hsimingchien/Shell.git
+[submodule "Vim"]
+	path = Vim
+	url = https://github.com/hsimingchien/Vim.git
