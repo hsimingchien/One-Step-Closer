@@ -1,3 +1,6 @@
 [submodule "C-Cpp"]
 	path = C-Cpp
 	url = https://github.com/hsimingchien/C-Cpp.git
+[submodule "Shell"]
+	path = Shell
+	url = https://github.com/hsimingchien/Shell.git
